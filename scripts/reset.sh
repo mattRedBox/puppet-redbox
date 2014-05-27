@@ -13,6 +13,6 @@ rm -Rf /opt/deploy
 rm -Rf /opt/redbox
 rm -Rf /opt/mint
 
-yum erase unzip
 yum erase java
 yum erase httpd
+yum erase redbox
